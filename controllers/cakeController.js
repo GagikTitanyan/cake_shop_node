@@ -13,5 +13,4 @@ class CakeController {
         }))
     }
 }
-
 module.exports = { CakeController }
